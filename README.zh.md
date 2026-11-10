@@ -281,6 +281,8 @@ tests/        # 基于合成 .dsh fixture 的单测
 
 - **HyperRoute · 超路由** —— [hyperroute.cc](https://hyperroute.cc) ——
   开箱即用的模型中转接入（GPT / Claude），感谢支持。
+- **linux.do** —— [linux.do](https://linux.do/) —— 开放的技术社区，本
+  项目的许多讨论与反馈都发生在这里，谢谢大家。
 
 ## 开源协议
 

@@ -213,6 +213,9 @@ PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 - **HyperRoute · 超路由** — [hyperroute.cc](https://hyperroute.cc) — model
   relay access (GPT / Claude) that works out of the box; thank you for the
   support.
+- **linux.do** — [linux.do](https://linux.do/) — the open technical
+  community where much of this project's discussion and feedback happens;
+  thank you.
 
 ## License
 
